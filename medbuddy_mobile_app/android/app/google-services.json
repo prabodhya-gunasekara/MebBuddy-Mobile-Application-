@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452977159547",
+    "project_id": "medbuddy-d75ad",
+    "storage_bucket": "medbuddy-d75ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452977159547:android:074d654611926816e9a1de",
+        "android_client_info": {
+          "package_name": "com.example.medbuddy_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KE9DUnK0RFkKdthZJA_PjLYinCwhZ4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
