@@ -5,6 +5,6 @@ class WelcomeButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text('Press me');
+    return const Text('Press me');
   }
 }
